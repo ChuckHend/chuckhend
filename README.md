@@ -9,7 +9,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.python.org/static/img/python-logo@2x.png" width="48" height="48" alt="Python" />
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
