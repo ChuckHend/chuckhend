@@ -31,6 +31,18 @@
       </a>
       <br>R
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/Arduino_logos.svg" width="48" height="48" alt="arduino" />
+      </a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/RPi-Logo-SCREEN.png" width="48" height="48" alt="rpi" />
+      </a>
+      <br>Raspberry Pi
+    </td>
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
