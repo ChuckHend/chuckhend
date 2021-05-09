@@ -33,7 +33,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/Arduino_logos.svg" width="48" height="48" alt="arduino" />
+        <img src="./img/arduino.svg" width="48" height="48" alt="arduino" />
       </a>
       <br>Arduino
     </td>
