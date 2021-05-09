@@ -76,7 +76,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="http://svn.apache.org/repos/asf/kafka/site/logos/kafka-logo-no-text.png" width="48" height="48" alt="kafka" />
+        <img src="kafka-logo-no-text.png" width="48" height="48" alt="kafka" />
       </a>
       <br>Kafka
     </td>
