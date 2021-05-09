@@ -76,7 +76,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="kafka-logo-no-text.png" width="48" height="48" alt="kafka" />
+        <img src="./img/kafka-logo-no-text.png" width="48" height="48" alt="kafka" />
       </a>
       <br>Kafka
     </td>
