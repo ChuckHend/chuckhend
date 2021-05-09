@@ -74,11 +74,25 @@
       </a>
       <br>Airflow
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="48" height="48" alt="postgres" />
+      </a>
+      <br>Postgres
+    </td>
     <td align="center" width="96">
       <a>
         <img src="./img/kafka-logo-no-text.png" width="48" height="48" alt="kafka" />
       </a>
       <br>Kafka
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./img/redis.png" width="48" height="48" alt="redis" />
+      </a>
+      <br>Redis
     </td>
   </tr>
 </table>
